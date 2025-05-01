@@ -1,7 +1,7 @@
 # 📌 Spam Detector Website
 
 ## 👤 Team Member
-**Nikhil Dhandhi**  
+**Nikhil Dhandhi, Jatin Drall**  
 BTech UX/UI
 
 ---
@@ -80,7 +80,7 @@ Visit: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ## 📄 Project Report (PDF)
 A detailed explanation of the project is included in:  
-📄 `SpamDetector_Explanation.pdf` in the repository.
+📄 `Project_Report1.pdf` in the repository.
 
 ---
 
